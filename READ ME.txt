@@ -1,0 +1,11 @@
+
+1)use your own credentials to run program 
+
+2)Always Enter inputs in string
+
+3)You have to change collection name manually in recipe data collection program
+
+4)for nutrion value data collection first collect each recipes data of all cuisine(cuisine in sense of country) then use recipes id to find nutrtion value data
+
+
+
